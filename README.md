@@ -48,6 +48,10 @@ input the start time (YYYY-MM-DD): 2022-10-24
 input the name of the file to save the plot to: salah.png
 ```
 
-![salah.png](images/salah.png "")
+and this is the resulting plot
+
+<p align="center">
+	<img src="images/salah.png"/>
+</p>
 
 Notice the peaks on the 26th and the 29th, these agree with real world data as liverpool football club had matches on both of these days.
